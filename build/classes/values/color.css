@@ -1,0 +1,8 @@
+/*Color gradient*/
+.colorBackground{
+    -fx-background-color: linear-gradient(to right top,#facd68, #fc76b3);
+}
+
+.colorBackgroundGreen{
+    -fx-background-color: linear-gradient(to right top, #56C596, #C9D950);
+}
